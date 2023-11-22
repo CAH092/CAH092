@@ -1,8 +1,8 @@
 
 # $$\mathbb{\color{green}Hello, \space welcome \space to \space my \space page.}$$
  
-  ### $${\color{green} I \ am \ currently \ a \ student \ at \ The \ University \ of \ Saskatchewan, }$$
-  ### $${\color{green}and \ I \ want \ to \ work \ in \ Cybersecurity \ after \ I \ graduate!}$$
+  ### $${\mathcal{\color{green} I \ am \ currently \ a \ student \ at \ The \ University \ of \ Saskatchewan, }$$
+  ### $${\mathcal{\color{green}and \ I \ want \ to \ work \ in \ Cybersecurity \ after \ I \ graduate!}$$
 ```diff
   
 What I currently do with some of my free time?
