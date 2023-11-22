@@ -1,6 +1,6 @@
 # $$\mathbb{\color{green}Hello, \space welcome \space to \space my \space page.}$$
-### $${\color{green} I \space am \ currently \ a \ student \ at \ The \ University \ of \ Saskatchewan, }$$
-### $${\color{green}and \ I \ want \ to \ work \ in \ Cybersecurity \ after \ I \ graduate!}$$
+#### $${\color{green} I \space am \ currently \ a \ student \ at \ The \ University \ of \ Saskatchewan, }$$
+#### $${\color{green}and \ I \ want \ to \ work \ in \ Cybersecurity \ after \ I \ graduate!}$$
   
 What I currently do with some of my free time?
   + I learn with help from https://docs.github.com
