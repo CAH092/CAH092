@@ -3,7 +3,6 @@
  
   ### $${\color{green} I \space am \ currently \ a \ student \ at \ The \ University \ of \ Saskatchewan, }$$
   ### $${\color{green}and \ I \ want \ to \ work \ in \ Cybersecurity \ after \ I \ graduate!}$$
-```diff
   
 What I currently do with some of my free time?
   + I learn with help from https://docs.github.com
@@ -13,7 +12,6 @@ What I need help with:
   + Internships
   + Certificates
   + Resources for learning things needed in Cybersecurity, and sources to keep up to date with new information.
-```
 
 ### Skills 
 <p align="left">
