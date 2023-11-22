@@ -33,10 +33,6 @@ What I need help with:
 
 <a href="https://github.com/CAH092" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAH092&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
   #### $${\color{purple} I \ am \ a \ newbie \ in \ this \ sphere, \ so \ feel \ free \ to \ reach \ out \ to \ me.}$$
   ### $$\mathbb{\color{green} Thank \ you \ for \ finding \ my \ page \ and \ reading \ my \ README, }$$
   ### $$\mathbb{\color{green} hope \ you \ have \ a \ great \ day!}$$
