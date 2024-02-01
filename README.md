@@ -4,7 +4,8 @@
   
 What I currently do with some of my free time?
   + I learn with help from https://docs.github.com
-  + I use various sites to learn coding, ethical hacking, and other computer science related things.
+  + I use various sites such as Cybrary, Try Hack Me, and Hack The Box,
+  + to learn coding, ethical hacking, and other computer science related things.
 
 What I need help with:
   + Internships
