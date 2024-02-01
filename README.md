@@ -9,7 +9,6 @@ What I currently do with some of my free time?
 
 What I need help with:
   + Internships
-  + Certificates
   + Resources for learning things needed in Cybersecurity, and sources to keep up to date with new information.
 
 ### Skills
